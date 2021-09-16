@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Heyyyy, I'm Raven. ![HeyGuys](https://i.ibb.co/tc1n1dg/hey-Guys-1.png)
+
+### About me
+
+- 🔭 I’m currently working on mainly school projects with some Data Science & GIS/Hydro on the side.
+- 🌱 I’m currently learning Java programming in my Intro to Java class.
+- 🤔 I’m looking for help with mastering OOP. :sweat_smile:
+- 📫 You can find me on: [Twitter](https://twitter.com/ItsRaeDickerson), [Dev.To](https://dev.to/theamazinraven), & [Medium](https://medium.com/@TheAmazinRaven).
+- 😄 Pronouns: she/her/they
+- ⚡ Fun fact: I like to dance, code and pretend I'm Sailor Moon.
