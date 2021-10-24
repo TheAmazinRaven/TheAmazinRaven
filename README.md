@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mastering OOP. :sweat_smile:
 - 📫 You can find me on: [Twitter](https://twitter.com/ItsRaeDickerson), [Dev.To](https://dev.to/theamazinraven), & [Medium](https://medium.com/@TheAmazinRaven).
 - 😄 Pronouns: she/her/they
-- ⚡ Fun fact: I like to dance, code and pretend I'm Sailor Moon.
+- ⚡ Fun fact: I like to dance, code and collect Sailor Moon merch.
