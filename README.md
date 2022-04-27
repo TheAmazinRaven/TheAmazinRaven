@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About me
 
 - 🔭 I’m currently working on school projects with some Full Stack Web Development on the side.
-- 🌱 I’m currently learning Java programming in my Intro to Java class.
+- 🌱 I’m currently learning Front End, OOP, DevOps & the Cloud.
 - 🤔 I’m looking for help with mastering OOP. :sweat_smile:
 - 📫 You can find me on: [Twitter](https://twitter.com/ItsRaeDickerson), [Dev.To](https://dev.to/theamazinraven), & [Medium](https://medium.com/@TheAmazinRaven).
 - 😄 Pronouns: she/her/they
