@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #### 📪 You can find me at 
 ---
 
-[![Twitter](https://img.shields.io/badge/Twitter-d6a5f3?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItsRaeDickerson) [![Hashnode](https://img.shields.io/badge/Hashnode-d6a5f3?style=for-the-badge&logo=hashnode&logoColor=white)](https://theamazinraven.hashnode.dev/) [![Medium](https://img.shields.io/badge/Medium-d6a5f3?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TheAmazinRaven) [![Dev.to](https://img.shields.io/badge/dev.to-d6a5f3?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/theamazinraven) [![WordPress](https://img.shields.io/badge/Wordpress-d6a5f3?style=for-the-badge&logo=wordpress&logoColor=white)](https://theamazinraven.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-d6a5f3?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItsRaeDickerson) [![Hashnode](https://img.shields.io/badge/Hashnode-d6a5f3?style=for-the-badge&logo=hashnode&logoColor=white)](https://theamazinraven.hashnode.dev/) [![Medium](https://img.shields.io/badge/Medium-d6a5f3?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@TheAmazinRaven) [![Dev.to](https://img.shields.io/badge/dev.to-d6a5f3?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/theamazinraven) 
 
 
 #### 👩🏾‍💻 Technical Skills + Things I'm Learning
